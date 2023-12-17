@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am Aman Bhardwaj, currently pursuing my bachelor's degree<br>at IIT Dhanbad. I am excited to share that I will be joining <br>Cisco as a Software Engineering Intern next summer. <br>Before this, I had the privilege of working with Readyly as a<br>Software Engineering Intern.<br><br>At present, I am eager to dive into the world of open-source <br>development and contribute to intriguing projects to the<br>fullest extent. My primary goal is to prepare for GSCO '24.
+<br>I am Aman Bhardwaj, currently pursuing my bachelor's degree<br>at IIT Dhanbad. I am excited to share that I will be joining <br>Cisco as a Software Engineering Intern next summer. <br>Before this, I had the privilege of working with Readyly as a<br>Software Engineering Intern.<br><br>At present, I am eager to dive into the world of open-source <br>development and contribute to intriguing projects to the<br>fullest extent. My primary goal is to prepare for Google Summer Of Code '24.
 
 
 ## 🌐 Socials:
