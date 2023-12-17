@@ -1,5 +1,14 @@
 # 💫 About Me:
-<br>I am Aman Bhardwaj, currently pursuing my bachelor's degree<br>at IIT Dhanbad. I am excited to share that I will be joining <br>Cisco as a Software Engineering Intern next summer. <br>Before this, I had the privilege of working with Readyly as a<br>Software Engineering Intern.<br><br>At present, I am eager to dive into the world of open-source <br>development and contribute to intriguing projects to the<br>fullest extent. My primary goal is to prepare for Google Summer Of Code '24.
+I'm Aman Bhardwaj and currently, I'm pursuing my bachelor's degree at IIT(ISM) Dhanbad. I am excited to share that I will be joining Cisco as a Software Engineer Intern in 2024. Before this, I had the opportunity to work with Readyly as a Software Engineer Intern in 2022. 
+<br>
+<br>
+In addition to my previous experiences, I also have great experience with some trending technologies which include but are not limited to Python, Java, C++, Javascript, Typescript, SQL, HTML, CSS, SASS, React.JS, Context API, Redux, GraphQL, Node.JS, Express.JS, REST framework, APIs, MongoDB, MySQL, Web Sockets, Socket.io Version Control (Git), GitHub, Object Oriented Design, Operating System, Computer Networking, Database Management System, Scalable DataBase Designs. Apart from this I also hold good command over Data Structures and Algorithms.
+<br>
+<br>
+Currently, I'm learning Java Backend Services which includes Spring, Spring Boot, and Microservices, and their applications with DevOps tools including Docker, Kubernetes, and AWS.
+<br>
+<br>
+I am eager to dive into the world of open-source development and contribute to intriguing projects to the fullest extent. My primary goal is to participate in Google Summer Of Code '24 and contribute to some exciting open source projects out there.
 
 
 ## 🌐 Socials:
