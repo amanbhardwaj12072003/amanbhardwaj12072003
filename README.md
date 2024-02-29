@@ -1,14 +1,22 @@
-# 💫 About Me:
-I'm Aman Bhardwaj and currently, I'm pursuing my bachelor's degree at IIT(ISM) Dhanbad. I am excited to share that I will be joining Cisco as a Software Engineer Intern in 2024. Before this, I had the opportunity to work with Readyly as a Software Engineer Intern in 2022. 
-<br>
-<br>
-In addition to my previous experiences, I also have great experience with some trending technologies which include but are not limited to Python, Java, C++, Javascript, Typescript, SQL, HTML, CSS, SASS, React.JS, Context API, Redux, GraphQL, Node.JS, Express.JS, REST framework, APIs, MongoDB, MySQL, Web Sockets, Socket.io Version Control (Git), GitHub, Object Oriented Design, Operating System, Computer Networking, Database Management System, Scalable DataBase Designs. Apart from this I also hold good command over Data Structures and Algorithms.
-<br>
-<br>
-Currently, I'm learning Java Backend Services which includes Spring, Spring Boot, and Microservices, and their applications with DevOps tools including Docker, Kubernetes, and AWS.
-<br>
-<br>
-I am eager to dive into the world of open-source development and contribute to intriguing projects to the fullest extent. My primary goal is to participate in Google Summer Of Code '24 and contribute to some exciting open source projects out there.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey there 👋, I'm Aman Bhardwaj</h1></summary>
+  </ul>
+</div>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- I'm from India and I'm Pursuing my bachelor's at IIT Dhanbad.
+
+- I’m currently learning Java Backend Service, Including Spring Boot and Microservices.
+  
+- My core programming languages are Java, Python, and Javascript.
+  
+- My core expertise revolves around Java, Spring Boot, React.JS, Redux, and Node.JS.
+  
+- Ask me about Core Java, Unit Testing, and Scalable Database Designs.
+  
+- Fun fact: I once wrote a love letter in Java code. It compiled perfectly, but the runtime errors occurred when trying to execute the romantic gestures.
 
 
 ## 🌐 Socials:
