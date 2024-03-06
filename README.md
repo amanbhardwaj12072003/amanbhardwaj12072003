@@ -8,8 +8,9 @@
 
 - I'm from India and I'm Pursuing my bachelor's at IIT Dhanbad.
 
-- Contact Me: 1. amanbhardwaj12072003@gmail.com
-              2. 21je0081@iitism.ac.in
+- Contact Me:
+  1. amanbhardwaj12072003@gmail.com
+  2. 21je0081@iitism.ac.in
 
 - I’m currently learning Java Backend Service, Including Spring Boot and Microservices.
   
